@@ -1,7 +1,7 @@
 package main
 
-import "github.com/ishtaka/go-game-programming/chapter01"
+import game "github.com/ishtaka/go-game-programming/chapter02"
 
 func main() {
-	chapter01.Start()
+	game.Start()
 }
